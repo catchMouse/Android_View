@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <!-- Activity主题 -->
+    <style name="activityTheme" parent="@android:style/Theme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+
+    <declare-styleable name="atts_tj">
+        <attr name="radius_big" format="dimension"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="atts_tick">
+        <attr name="radius"         format="dimension"></attr> <!-- 默认圆半径 -->
+        <attr name="tick_color"     format="color"></attr>  <!-- 默认对勾颜色 -->
+        <attr name="circle_color"   format="color"></attr>  <!-- 默认选中情况下圆填充色 -->
+    </declare-styleable>
+
+    <!--//属性获取-->
+    <!--TypedArray a = context.obtainStyledAttributes(attrs, R.styleable.atts_tj);-->
+    <!--circleRadius_big = a.getDimensionPixelSize(R.styleable.atts_tj_radius_big, DEFAULT_RADIUS_BIG);-->
+    <!--a.recycle();-->
+
+</resources>
