@@ -8,3 +8,6 @@ Android自定义samples
                                                                                          
 2.标记已读的动画
  ![image](https://github.com/catchMouse/image_store/blob/master/%E6%89%93%E9%92%A9.gif)
+
+3.扇形图
+ ![image](https://github.com/catchMouse/image_store/blob/master/%E6%89%87%E5%BD%A2%E5%9B%BE.png)
