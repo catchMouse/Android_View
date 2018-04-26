@@ -102,6 +102,7 @@ public class TJView extends View {
         circleRadius_medium = circleRadius_big/2;
         circleRadius_small = circleRadius_big/6;
 
+        setMeasuredDimension(width, height);
     }
 
 
