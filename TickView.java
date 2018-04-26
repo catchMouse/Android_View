@@ -176,6 +176,8 @@ public class TickView extends View {
         tick_path.moveTo(centerX - LINE, centerY);
         tick_path.lineTo(centerX, centerY + LINE);
         tick_path.lineTo(centerX + LINE*2, centerY - LINE);
+        
+        setMeasuredDimension(width + 60, height + 60);  //放大缩小动画 30
     }
 
     private void startAnim() {
@@ -205,6 +207,8 @@ public class TickView extends View {
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
+        
+        canvas.translate(30,30);
 
         if (isSelected) {
             drawSelected(canvas);
