@@ -1,4 +1,4 @@
-package com.example.pateo.videotest.view;
+
 
 import android.os.Bundle;
 import android.app.Activity;
@@ -6,7 +6,7 @@ import android.os.Handler;
 import android.os.Looper;
 import android.view.View;
 
-import com.example.pateo.videotest.R;
+
 
 public class TickActivity extends Activity {
 
