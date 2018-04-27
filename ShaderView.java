@@ -1,4 +1,3 @@
-package com.example.pateo.videotest.view;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -11,12 +10,6 @@ import android.graphics.Shader;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
-
-import com.example.pateo.videotest.R;
-
-/**
- * Created by pateo on 18-4-26.
- */
 
 public class ShaderView extends View {
 
