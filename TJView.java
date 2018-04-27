@@ -19,6 +19,7 @@ import android.view.View;
  * 4.两个画笔
  */
 
+//自己导包以及R引入
 public class TJView extends View {
 
     private static final String TAG = TJView.class.getSimpleName();
