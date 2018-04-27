@@ -7,7 +7,7 @@
     android:background="#9AC0CD"
     android:orientation="vertical">
 
-    <com.example.pateo.videotest.view.PathView
+    <packageName.view.PathView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
