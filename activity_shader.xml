@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.example.pateo.videotest.view.ShaderView
+    <!--使用自己包名-->
+    <packageName.view.ShaderView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         />
