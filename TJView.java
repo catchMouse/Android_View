@@ -1,4 +1,3 @@
-package com.example.pateo.videotest.view;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -11,7 +10,6 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.example.pateo.videotest.R;
 
 //自定义太极图  模仿学习
 /**
