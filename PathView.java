@@ -12,6 +12,7 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
 
+//自己导包以及R引入
 public class PathView extends View {
 
     private Paint paint;   //方式1
