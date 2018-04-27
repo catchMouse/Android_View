@@ -7,7 +7,7 @@ import android.os.Looper;
 import android.view.View;
 
 
-
+//自己导包以及R引入
 public class TickActivity extends Activity {
 
     TickView tickView;
