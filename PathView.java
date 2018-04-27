@@ -1,4 +1,4 @@
-package com.example.pateo.videotest.view;
+
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -11,10 +11,6 @@ import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
-
-/**
- * Created by pateo on 18-4-25.
- */
 
 public class PathView extends View {
 
