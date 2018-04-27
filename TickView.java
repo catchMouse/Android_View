@@ -1,4 +1,4 @@
-package com.example.pateo.videotest.view;
+
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -17,12 +17,6 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.view.animation.ScaleAnimation;
 
-import com.example.pateo.videotest.R;
-
-/**
- * Created by pateo on 18-4-24.
- */
-
 
 /**
  * 1. 未选中状态    灰色圆 + 中间一个对勾
@@ -33,6 +27,8 @@ import com.example.pateo.videotest.R;
  *    2.3 整个圆向外放大，再缩小
  * 3. 属性： 对勾颜色； 圆的颜色；圆的半径
  */
+
+//自己导包以及R引入
 public class TickView extends View {
 
     private boolean isSelected = false;
