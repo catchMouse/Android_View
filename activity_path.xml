@@ -7,6 +7,7 @@
     android:background="#9AC0CD"
     android:orientation="vertical">
 
+    <!--使用自己的包名路径-->
     <packageName.view.PathView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
