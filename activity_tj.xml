@@ -6,8 +6,9 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+    <!--使用自己的包名-->
     <!--支持 wrap_content, match_parent, 具体值, 不支持padding -->
-    <com.example.pateo.videotest.view.TJView
+    <packageName.view.TJView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         />
