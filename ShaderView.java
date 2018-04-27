@@ -11,6 +11,7 @@ import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
 
+//自己导包以及R引入
 public class ShaderView extends View {
 
     Paint paint;
