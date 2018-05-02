@@ -14,3 +14,6 @@ Android自定义samples
  
 4.bitmapShader
  ![image](https://github.com/catchMouse/image_store/blob/master/bitmap_shader.png)
+ 
+5.文本绘制(分段绘制)
+ ![image](https://github.com/catchMouse/image_store/blob/master/text.png)
