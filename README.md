@@ -17,3 +17,6 @@ Android自定义samples
  
 5.文本绘制(分段绘制)
  ![image](https://github.com/catchMouse/image_store/blob/master/text.png)
+
+6.自定义进度条动画(3s内从0%到100%)
+ ![image](https://github.com/catchMouse/image_store/blob/master/%E8%87%AA%E5%AE%9A%E4%B9%89%E8%BF%9B%E5%BA%A6%E6%9D%A1.png)
